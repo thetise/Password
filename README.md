@@ -10,4 +10,5 @@ Yeni şifrenizi giriniz: java123 </br >
 Şifre oluşturulamadı değiştirmek istediğiniz şifre ile giriş yapmış olduğunuz şifre aynı, lütfen başka şifre giriniz: java1234 </br >
 Şifre oluşturuldu. </br >
 Yeni şifreniz: java1234 </br >
+
 Not: Kullanıcı adı 'patika' şifre ise 'java123'tür.
